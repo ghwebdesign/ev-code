@@ -39,50 +39,50 @@
   <div class="section toc">
 
     <div class="col">
-      <h4><a href="naming-conventions.php">Naming Conventions</a></h4>
+      <h4><a href="naming-conventions.html">Naming Conventions</a></h4>
       <ul>
-        <li><a href="naming-conventions.php#assets">Assets</a></li>
-        <li><a href="naming-conventions.php#directory">Directory Structuring</a></li>
-        <li><a href="naming-conventions.php#projects">Projects</a></li>
-        <li><a href="naming-conventions.php#servers">Servers</a></li>
-        <li><a href="html.php">HTML</a></li>
-        <li><a href="css.php">CSS</a></li>
+        <li><a href="naming-conventions.html#assets">Assets</a></li>
+        <li><a href="naming-conventions.html#directory">Directory Structuring</a></li>
+        <li><a href="naming-conventions.html#projects">Projects</a></li>
+        <li><a href="naming-conventions.html#servers">Servers</a></li>
+        <li><a href="html.html">HTML</a></li>
+        <li><a href="css.html">CSS</a></li>
       </ul>
     </div>
 
     <div class="col">
-      <h4><a href="html.php">HTML</a></h4>
+      <h4><a href="html.html">HTML</a></h4>
       <ul>
-        <li><a href="html.php#practicality">Practicality over purity</a></li>
-        <li><a href="html.php#syntax">Syntax</a></li>
-        <li><a href="html.php#doctype">HTML5 doctype</a></li>
-        <li><a href="html.php#lang">Language attribute</a></li>
-        <li><a href="html.php#ie-compatibility-mode">IE compatibility mode</a></li>
-        <li><a href="html.php#encoding">Character encoding</a></li>
-        <li><a href="html.php#style-script">CSS and JavaScript includes</a></li>
-        <li><a href="html.php#attribute-order">Attribute order</a></li>
-        <li><a href="html.php#boolean-attributes">Boolean attributes</a></li>
-        <li><a href="html.php#reducing-markup">Reducing markup</a></li>
-        <li><a href="html.php#javascript">JavaScript generated HTML</a></li>
+        <li><a href="html.html#practicality">Practicality over purity</a></li>
+        <li><a href="html.html#syntax">Syntax</a></li>
+        <li><a href="html.html#doctype">HTML5 doctype</a></li>
+        <li><a href="html.html#lang">Language attribute</a></li>
+        <li><a href="html.html#ie-compatibility-mode">IE compatibility mode</a></li>
+        <li><a href="html.html#encoding">Character encoding</a></li>
+        <li><a href="html.html#style-script">CSS and JavaScript includes</a></li>
+        <li><a href="html.html#attribute-order">Attribute order</a></li>
+        <li><a href="html.html#boolean-attributes">Boolean attributes</a></li>
+        <li><a href="html.html#reducing-markup">Reducing markup</a></li>
+        <li><a href="html.html#javascript">JavaScript generated HTML</a></li>
       </ul>
     </div>
 
     <div class="col">
-      <h4><a href="css.php">CSS</a></h4>
+      <h4><a href="css.html">CSS</a></h4>
       <ul>
-        <li><a href="css.php#syntax">CSS syntax</a></li>
-        <li><a href="css.php#declaration-order">Declaration order</a></li>
-        <li><a href="css.php#import">Don't use @import</a></li>
-        <li><a href="css.php#media-queries">Media query placement</a></li>
-        <li><a href="css.php#prefixed-properties">Prefixed properties</a></li>
-        <li><a href="css.php#single-declarations">Rules with single declarations</a></li>
-        <li><a href="css.php#shorthand">Shorthand notation</a></li>
-        <li><a href="css.php#nesting">Nesting in Less and Sass</a></li>
-        <li><a href="css.php#operators">Operators in Less and Sass</a></li>
-        <li><a href="css.php#comments">Comments</a></li>
-        <li><a href="css.php#classes">Classes</a></li>
-        <li><a href="css.php#selectors">Selectors</a></li>
-        <li><a href="css.php#organization">Organization</a></li>
+        <li><a href="css.html#syntax">CSS syntax</a></li>
+        <li><a href="css.html#declaration-order">Declaration order</a></li>
+        <li><a href="css.html#import">Don't use @import</a></li>
+        <li><a href="css.html#media-queries">Media query placement</a></li>
+        <li><a href="css.html#prefixed-properties">Prefixed properties</a></li>
+        <li><a href="css.html#single-declarations">Rules with single declarations</a></li>
+        <li><a href="css.html#shorthand">Shorthand notation</a></li>
+        <li><a href="css.html#nesting">Nesting in Less and Sass</a></li>
+        <li><a href="css.html#operators">Operators in Less and Sass</a></li>
+        <li><a href="css.html#comments">Comments</a></li>
+        <li><a href="css.html#classes">Classes</a></li>
+        <li><a href="css.html#selectors">Selectors</a></li>
+        <li><a href="css.html#organization">Organization</a></li>
       </ul>
     </div>
   </div>
